@@ -6,9 +6,9 @@ type TAnimal string
 
 const (
 	perro     TAnimal = "perro"
-	gato              = "gato"
-	hamnster          = "hamnster"
-	tarantula         = "tarantula"
+	gato      TAnimal = "gato"
+	hamnster  TAnimal = "hamnster"
+	tarantula TAnimal = "tarantula"
 )
 
 func main() {
